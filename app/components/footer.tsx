@@ -5,9 +5,9 @@ import { Container } from "@/app/components/ui/section"
 import { Separator } from "@/app/components/ui/separator"
 
 const socialLinks = [
-  { href: "https://github.com/KrishnaJadhav2525", icon: Github, label: "GitHub" },
-  { href: "https://x.com/krlshn444", icon: Twitter, label: "Twitter" },
-  { href: "https://www.linkedin.com/in/krishna-jadhav-a5122a316/", icon: Linkedin, label: "LinkedIn" },
+  { href: "https://github.com/rajjak1-shaikh", icon: Github, label: "GitHub" },
+  { href: "#", icon: Twitter, label: "Twitter" },
+  { href: "https://www.linkedin.com/in/rajjak-shaikh-77bb18315/", icon: Linkedin, label: "LinkedIn" },
 ]
 
 export default function Footer() {
@@ -22,7 +22,7 @@ export default function Footer() {
               className="text-xl font-bold tracking-tight text-[var(--text-primary)]"
               style={{ fontFamily: "'Syne', system-ui, sans-serif" }}
             >
-              Krishna<span className="text-[var(--text-tertiary)]">.</span>
+              Rajjak<span className="text-[var(--text-tertiary)]">.</span>
             </Link>
             <p className="mt-6 text-[var(--text-secondary)] text-sm leading-relaxed max-w-sm">
               Engineering sleek, high-performance web applications with a focus on AI integration and modern user experiences.
@@ -72,7 +72,7 @@ export default function Footer() {
         {/* BOTTOM */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-[var(--text-tertiary)]">
-            © {new Date().getFullYear()} Krishna Jadhav.
+            © {new Date().getFullYear()} Rajjak Shaikh.
           </p>
           <p className="text-xs text-[var(--text-tertiary)] font-mono">
             Next.js • Tailwind • Vercel

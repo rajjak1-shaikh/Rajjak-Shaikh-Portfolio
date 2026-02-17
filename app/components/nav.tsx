@@ -97,7 +97,7 @@ export default function Navbar() {
           className="text-lg font-bold tracking-tight font-[family-name:var(--font-display)] text-[var(--text-primary)] hover:opacity-80 transition-opacity"
           style={{ fontFamily: "'Syne', system-ui, sans-serif" }}
         >
-          Krishna<span className="text-[var(--text-tertiary)]">.</span>
+          Rajjak<span className="text-[var(--text-tertiary)]">.</span>
         </Link>
 
         {/* Desktop Navigation */}

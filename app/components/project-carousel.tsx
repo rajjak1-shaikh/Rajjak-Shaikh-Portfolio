@@ -35,7 +35,7 @@ const projects: Project[] = [
             { label: "Speed", value: "Real-time", icon: Zap },
             { label: "Market", value: "USDT-M", icon: Activity }
         ],
-        links: { github: "https://github.com/KrishnaJadhav2525/" },
+        links: { github: "https://github.com/rajjak1-shaikh" },
         tags: ['Python', 'Binance API', 'CLI', 'Trading'],
         gradient: "from-yellow-500/50 via-orange-500/30 to-transparent",
         iconBg: "bg-yellow-500/10",
@@ -59,7 +59,7 @@ const projects: Project[] = [
             { label: "Cost", value: "Free-tier", icon: Activity },
             { label: "Status", value: "Auto", icon: Zap }
         ],
-        links: { github: "https://github.com/KrishnaJadhav2525/" },
+        links: { github: "https://github.com/rajjak1-shaikh" },
         tags: ['n8n', 'Python', 'Gemini AI', 'FFmpeg'],
         gradient: "from-pink-500/50 via-rose-500/30 to-transparent",
         iconBg: "bg-pink-500/10",
@@ -83,7 +83,7 @@ const projects: Project[] = [
             { label: "Model", value: "TF-IDF", icon: Activity },
             { label: "Speed", value: "~ms", icon: Zap }
         ],
-        links: { github: "https://github.com/KrishnaJadhav2525/" },
+        links: { github: "https://github.com/rajjak1-shaikh" },
         tags: ['Django', 'Python', 'Scikit-learn', 'NLP'],
         gradient: "from-blue-500/50 via-cyan-500/30 to-transparent",
         iconBg: "bg-blue-500/10",
@@ -182,7 +182,7 @@ const projects: Project[] = [
             { label: "Range", value: "100 Yrs", icon: Activity },
             { label: "Charts", value: "Static", icon: BarChart3 }
         ],
-        links: { github: "https://github.com/KrishnaJadhav2525/CineData-Analysis" },
+        links: { github: "https://github.com/rajjak1-shaikh" },
         tags: ['Python', 'Pandas', 'Matplotlib', 'Seaborn'],
         gradient: "from-yellow-500/50 via-amber-500/30 to-transparent",
         iconBg: "bg-yellow-500/10",
@@ -206,7 +206,7 @@ const projects: Project[] = [
             { label: "FPS", value: "60", icon: Activity },
             { label: "Nav", value: "A11y", icon: Activity }
         ],
-        links: { github: "https://github.com/KrishnaJadhav2525/react-virtualized-data-grid", demo: "#" },
+        links: { github: "https://github.com/rajjak1-shaikh", demo: "#" },
         tags: ['React', 'TypeScript', 'Vite', 'Vitest'],
         gradient: "from-cyan-500/50 via-blue-500/30 to-transparent",
         iconBg: "bg-cyan-500/10",
@@ -230,7 +230,7 @@ const projects: Project[] = [
             { label: "Backend", value: "Flask", icon: Activity },
             { label: "DB", value: "Mongo", icon: Database }
         ],
-        links: { github: "https://github.com/KrishnaJadhav2525/College_Web-_Portal-_Full-Stack" },
+        links: { github: "https://github.com/rajjak1-shaikh/CS-Dept" },
         tags: ['Flask', 'MongoDB', 'HTML/CSS', 'Python'],
         gradient: "from-violet-500/50 via-fuchsia-500/30 to-transparent",
         iconBg: "bg-violet-500/10",

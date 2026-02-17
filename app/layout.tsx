@@ -13,15 +13,15 @@ import PageWrapper from "./components/page-wrapper"
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: "Krishna | Legal Tech & Full Stack Developer",
-    template: "%s | Krishna",
+    default: "Rajjak | Legal Tech & Full Stack Developer",
+    template: "%s | Rajjak",
   },
-  description: "Personal portfolio of Krishna, a Full Stack Developer specializing in AI, Legal Tech, and High-Performance Web Applications.",
+  description: "Personal portfolio of Rajjak, a Full Stack Developer specializing in AI, Legal Tech, and High-Performance Web Applications.",
   openGraph: {
-    title: "Krishna | Legal Tech & Full Stack Developer",
-    description: "Personal portfolio of Krishna, a Full Stack Developer specializing in AI, Legal Tech, and High-Performance Web Applications.",
+    title: "Rajjak | Legal Tech & Full Stack Developer",
+    description: "Personal portfolio of Rajjak, a Full Stack Developer specializing in AI, Legal Tech, and High-Performance Web Applications.",
     url: baseUrl,
-    siteName: "Krishna Portfolio",
+    siteName: "Rajjak Portfolio",
     locale: "en_US",
     type: "website",
   },
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Krishna",
+    title: "Rajjak",
     card: "summary_large_image",
   },
 }
@@ -50,11 +50,11 @@ export default function RootLayout({
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Person",
-    "name": "Krishna",
+    "name": "Rajjak",
     "url": baseUrl,
     "jobTitle": "Full Stack Developer",
     "sameAs": [
-      "https://github.com/krishna-jadhav",
+      "https://github.com/rajjak1-shaikh",
     ]
   }
 

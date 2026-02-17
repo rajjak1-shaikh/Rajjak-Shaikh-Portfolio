@@ -33,7 +33,7 @@ export default function AboutPage() {
               className="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight text-[var(--text-primary)] mb-6"
               style={{ fontFamily: "'Syne', system-ui, sans-serif" }}
             >
-              Krishna Jadhav
+              Rajjak Shaikh
             </h1>
             <p className="text-xl text-[var(--text-secondary)] max-w-2xl leading-relaxed">
               Full-Stack Engineer & AI Agent Developer.
@@ -87,9 +87,9 @@ export default function AboutPage() {
               <div className="p-6 rounded-2xl glass">
                 <h3 className="text-sm font-semibold text-[var(--text-primary)] uppercase tracking-wider mb-4">Connect</h3>
                 <div className="flex gap-4">
-                  <a href="https://github.com/KrishnaJadhav2525" target="_blank" className="text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"><Github size={20} /></a>
-                  <a href="https://x.com/krlshn444" target="_blank" className="text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"><Twitter size={20} /></a>
-                  <a href="https://www.linkedin.com/in/krishna-jadhav-a5122a316/" target="_blank" className="text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"><Linkedin size={20} /></a>
+                  <a href="https://github.com/rajjak1-shaikh" target="_blank" className="text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"><Github size={20} /></a>
+                  <a href="#" target="_blank" className="text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"><Twitter size={20} /></a>
+                  <a href="https://www.linkedin.com/in/rajjak-shaikh-702854252/" target="_blank" className="text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors"><Linkedin size={20} /></a>
                 </div>
               </div>
             </div>
@@ -100,7 +100,7 @@ export default function AboutPage() {
         <FadeIn delay={0.2}>
           <div className="grid md:grid-cols-2 gap-12 mb-32">
 
-            {/* EXPERIENCE */}
+            {/* EXPERIENCE
             <div>
               <h2
                 className="text-2xl font-bold text-[var(--text-primary)] mb-8 flex items-center gap-3"
@@ -137,7 +137,7 @@ export default function AboutPage() {
                 </div>
 
               </div>
-            </div>
+            </div> */}
 
             {/* EDUCATION */}
             <div>
@@ -155,10 +155,10 @@ export default function AboutPage() {
                     B.Sc. Computer Science
                   </h3>
                   <p className="text-sm text-[var(--text-tertiary)] mb-2 font-mono">
-                    Rajarshi Shahu Mahavidyalaya • 2023 – 2026
+                    Rajarshi Shahu Mahavidyalaya Latur,(Empowered Autonomous Institution) • 2023 – 2026
                   </p>
                   <p className="text-[var(--text-secondary)] text-sm">
-                    CGPA: 7.53/10 • Specialized in Data Structures & AI
+                    CGPA: 8.5/10 • Specialized in Data Science & AI
                   </p>
                 </div>
 
@@ -169,6 +169,22 @@ export default function AboutPage() {
                   </h3>
                   <p className="text-sm text-[var(--text-tertiary)] mb-2 font-mono">
                     Maharashtra State Board • 2023
+                  </p>
+                  <p className="text-[var(--text-secondary)] text-sm">
+                    Percentage : 74%
+                  </p>
+                </div>
+
+                <div className="relative group">
+                  <span className="absolute -left-[37px] top-1.5 w-4 h-4 rounded-full border-2 border-[var(--glass-border)] bg-[hsl(var(--background))] group-hover:border-[hsl(var(--secondary))] transition-colors" />
+                  <h3 className="text-lg font-semibold text-[var(--text-primary)] group-hover:text-[hsl(var(--secondary))] transition-colors">
+                    Secondary School
+                  </h3>
+                  <p className="text-sm text-[var(--text-tertiary)] mb-2 font-mono">
+                    Maharashtra State Board • 2021
+                  </p>
+                  <p className="text-[var(--text-secondary)] text-sm">
+                    Percentage : 96.40%
                   </p>
                 </div>
 

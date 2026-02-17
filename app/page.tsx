@@ -10,9 +10,9 @@ import { FadeIn } from "@/app/components/ui/fade-in"
 import { ContactSection } from "@/app/components/contact-section"
 
 const socialLinks = [
-  { href: "https://github.com/KrishnaJadhav2525", icon: Github, label: "GitHub" },
-  { href: "https://x.com/krlshn444", icon: Twitter, label: "Twitter" },
-  { href: "https://www.linkedin.com/in/krishna-jadhav-a5122a316/", icon: Linkedin, label: "LinkedIn" },
+  { href: "https://github.com/rajjak1-shaikh", icon: Github, label: "GitHub" },
+  { href: "#", icon: Twitter, label: "Twitter" },
+  { href: "https://www.linkedin.com/in/rajjak-shaikh-77bb18315/", icon: Linkedin, label: "LinkedIn" },
 ]
 
 // Hook for scroll-triggered animations
@@ -70,7 +70,7 @@ export default function Page() {
             className="relative z-10 text-5xl md:text-6xl xl:text-8xl font-bold tracking-tight leading-tight text-[var(--text-primary)] drop-shadow-2xl"
             style={{ fontFamily: "'Syne', system-ui, sans-serif" }}
           >
-            Krishna <span className="text-transparent bg-clip-text bg-gradient-to-r from-[hsl(var(--primary))] to-[hsl(var(--secondary))]">Jadhav</span>
+            Rajjak <span className="text-transparent bg-clip-text bg-gradient-to-r from-[hsl(var(--primary))] to-[hsl(var(--secondary))]">Shaikh</span>
           </h1>
         </div>
 

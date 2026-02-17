@@ -10,9 +10,9 @@ import { Container } from "@/app/components/ui/section"
 import { FadeIn } from "@/app/components/ui/fade-in"
 
 const socialLinks = [
-    { href: "https://github.com/KrishnaJadhav2525", icon: Github, label: "GitHub" },
-    { href: "https://x.com/krlshn444", icon: Twitter, label: "Twitter" },
-    { href: "https://www.linkedin.com/in/krishna-jadhav-a5122a316/", icon: Linkedin, label: "LinkedIn" },
+    { href: "https://github.com/rajjak1-shaikh", icon: Github, label: "GitHub" },
+    { href: "#", icon: Twitter, label: "Twitter" },
+    { href: "https://www.linkedin.com/in/rajjak-shaikh-77bb18315/", icon: Linkedin, label: "LinkedIn" },
 ]
 
 export function ContactSection() {
@@ -191,8 +191,8 @@ export function ContactSection() {
                                         Contact Info
                                     </h3>
                                     <div className="space-y-4">
-                                        <a href="mailto:jadhavkrishna475@gmail.com" className="block text-2xl md:text-3xl font-light text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors">
-                                            jadhavkrishna475@gmail.com
+                                        <a href="mailto:shaikhrajjak126@gmail.com" className="block text-2xl md:text-3xl font-light text-[var(--text-secondary)] hover:text-[var(--text-primary)] transition-colors">
+                                            shaikhrajjak126@gmail.com
                                         </a>
                                         <p className="text-[var(--text-tertiary)]">
                                             Based in India • Available Worldwide
