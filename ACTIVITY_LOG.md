@@ -1,0 +1,61 @@
+
+- [2026-02-09T15:48:23.272Z] fix: fix overflow issue on small screens
+- [2026-02-09T08:22:45.272Z] feat: create reusable button component
+- [2026-02-09T08:40:05.272Z] docs: document api endpoints
+- [2026-02-09T12:54:04.272Z] chore: update vercel configuration
+- [2026-02-09T07:47:08.272Z] feat: create animated hero section
+- [2026-02-09T14:02:46.272Z] fix: resolve issue with font loading
+- [2026-02-09T13:45:23.272Z] refactor: remove deprecated api calls
+- [2026-02-09T07:45:17.272Z] fix: fix memory leak in event listener
+- [2026-02-09T14:48:53.272Z] feat: create responsive navigation bar
+- [2026-02-09T07:32:06.272Z] fix: resolve api timeout error
+- [2026-02-09T05:56:44.272Z] fix: fix overflow issue on small screens
+- [2026-02-09T13:47:15.272Z] test: mock api response for testing
+- [2026-02-09T06:04:19.272Z] docs: update license file
+- [2026-02-09T07:12:27.272Z] fix: fix infinite loop in useEffect
+- [2026-02-09T08:21:13.272Z] fix: fix infinite loop in useEffect
+- [2026-02-09T09:09:04.272Z] fix: handle null state in user card
+- [2026-02-09T14:03:52.272Z] fix: fix infinite loop in useEffect
+- [2026-02-09T10:20:29.272Z] feat: create responsive navigation bar
+- [2026-02-09T15:26:40.272Z] docs: fix typos in documentation
+- [2026-02-09T10:54:31.272Z] feat: create reusable button component
+- [2026-02-09T16:14:12.272Z] docs: add changelog entry
+- [2026-02-09T17:17:10.272Z] chore: configure eslint rules
+- [2026-02-09T08:40:39.272Z] fix: fix z-index issue on modal
+- [2026-02-09T04:52:39.272Z] refactor: restructure folder hierarchy
+- [2026-02-09T11:30:59.272Z] fix: handle null state in user card
+- [2026-02-09T13:47:20.272Z] feat: implement pagination for blog posts
+- [2026-02-09T16:17:08.272Z] feat: create responsive navigation bar
+- [2026-02-09T11:47:51.272Z] refactor: improve code readability
+- [2026-02-09T14:52:19.272Z] feat: add form validation logic
+- [2026-02-09T05:14:06.272Z] docs: update README with setup instructions
+- [2026-02-12T10:36:48.230Z] fix: resolve hydration mismatch error
+- [2026-02-12T07:40:13.230Z] docs: update README with setup instructions
+- [2026-02-12T12:15:35.230Z] feat: implement secure authentication flow
+- [2026-02-12T09:25:44.230Z] fix: resolve hydration mismatch error
+- [2026-02-12T11:08:44.230Z] feat: integrate newsletter subscription form
+- [2026-02-12T09:33:10.230Z] fix: resolve race condition in data fetching
+- [2026-02-12T07:25:35.230Z] fix: correct margin on mobile devices
+- [2026-02-12T07:58:05.230Z] refactor: clean up unused imports
+- [2026-02-12T10:25:07.230Z] refactor: remove deprecated api calls
+- [2026-02-12T15:55:31.230Z] feat: setup basic routing structure
+- [2026-02-12T13:11:51.230Z] feat: integrate newsletter subscription form
+- [2026-02-12T16:07:02.230Z] docs: document environment variables
+- [2026-02-12T16:29:42.230Z] refactor: rename components for clarity
+- [2026-02-12T13:17:43.230Z] chore: update npm dependencies
+- [2026-02-12T18:03:30.230Z] chore: update npm dependencies
+- [2026-02-12T14:20:10.230Z] chore: update vercel configuration
+- [2026-02-12T05:46:45.230Z] fix: correct date formatting
+- [2026-02-12T05:38:35.230Z] chore: tweak prettier config
+- [2026-02-12T14:14:43.230Z] refactor: extract helper functions to utils
+- [2026-02-12T08:37:49.230Z] feat: implement secure authentication flow
+- [2026-02-12T16:02:17.230Z] refactor: update dependency versions
+- [2026-02-12T11:37:48.230Z] chore: cleanup temporary files
+- [2026-02-12T15:36:02.230Z] refactor: simplify state management logic
+- [2026-02-12T08:41:58.230Z] fix: handle null state in user card
+- [2026-02-12T15:21:43.230Z] chore: update vercel configuration
+- [2026-02-12T12:13:14.230Z] feat: add form validation logic
+- [2026-02-12T08:46:58.230Z] chore: configure eslint rules
+- [2026-02-12T04:52:12.230Z] fix: fix broken link in footer
+- [2026-02-12T14:07:11.230Z] feat: add support for image optimization
+- [2026-02-12T07:33:53.230Z] feat: create animated hero section
