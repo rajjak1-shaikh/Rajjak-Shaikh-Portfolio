@@ -1,9 +1,9 @@
-# Krishna Portfolio & Blog
+# Rajjak Portfolio & Blog
 
 A modern personal portfolio with AI-powered semantic search, built using **Next.js App Router**.  
 Features a fully integrated blog system, SEO optimization, and production-ready architecture.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://krishnajadhav.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://rajjak-shaikh-portfolio.vercel.app/)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://typescriptlang.org)
 
